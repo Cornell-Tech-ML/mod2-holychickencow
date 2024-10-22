@@ -282,10 +282,10 @@ def tensor_zip(
     [
         Storage,
         Shape,
-        Strides, 
+        Strides,
         Storage,
         Shape,
-        Strides, 
+        Strides,
         Storage,
         Shape,
         Strides,

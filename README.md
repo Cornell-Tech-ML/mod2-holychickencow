@@ -191,4 +191,115 @@ Epoch: 480/500, loss: 7.874674678218416, correct: 50
 Epoch: 490/500, loss: 7.666649725141967, correct: 50
 Epoch: 500/500, loss: 7.469857253359352, correct: 50
 
+# Xor: Hidden Layers - 15, LR - 0.1
+
+<img width="582" alt="Screen Shot 2024-10-22 at 12 35 37 PM" src="https://github.com/user-attachments/assets/c8edd682-1ab6-4f27-b8ae-196e8e7fb27a">
+<img width="629" alt="Screen Shot 2024-10-22 at 12 35 50 PM" src="https://github.com/user-attachments/assets/464f5e5d-b802-4a87-8c45-e24d4c528756">
+Epoch: 0/1000, loss: 0, correct: 0
+Epoch: 10/1000, loss: 30.718122741956442, correct: 35
+Epoch: 20/1000, loss: 29.58108417940489, correct: 35
+Epoch: 30/1000, loss: 28.991943140229996, correct: 35
+Epoch: 40/1000, loss: 28.39932220664864, correct: 35
+Epoch: 50/1000, loss: 27.777721252282426, correct: 35
+Epoch: 60/1000, loss: 27.05864781436699, correct: 36
+Epoch: 70/1000, loss: 26.465971759576657, correct: 36
+Epoch: 80/1000, loss: 25.90120021261901, correct: 36
+Epoch: 90/1000, loss: 25.34224821567426, correct: 37
+Epoch: 100/1000, loss: 24.77355144482157, correct: 38
+Epoch: 110/1000, loss: 24.230267838267917, correct: 39
+Epoch: 120/1000, loss: 23.65940822272508, correct: 39
+Epoch: 130/1000, loss: 23.074831371889044, correct: 40
+Epoch: 140/1000, loss: 22.560976809260918, correct: 40
+Epoch: 150/1000, loss: 22.08540073507439, correct: 40
+Epoch: 160/1000, loss: 21.63058958739817, correct: 40
+Epoch: 170/1000, loss: 21.171098413731944, correct: 40
+Epoch: 180/1000, loss: 20.709876774919053, correct: 40
+Epoch: 190/1000, loss: 20.245238161046974, correct: 41
+Epoch: 200/1000, loss: 19.786364744922558, correct: 41
+Epoch: 210/1000, loss: 19.321148999833554, correct: 41
+Epoch: 220/1000, loss: 18.858486435124135, correct: 41
+Epoch: 230/1000, loss: 18.37917927005598, correct: 42
+Epoch: 240/1000, loss: 17.905763205712496, correct: 43
+Epoch: 250/1000, loss: 17.428010565847224, correct: 43
+Epoch: 260/1000, loss: 16.968039321156994, correct: 43
+Epoch: 270/1000, loss: 16.497125132257374, correct: 43
+Epoch: 280/1000, loss: 16.052898956690957, correct: 43
+Epoch: 290/1000, loss: 15.629284600355124, correct: 43
+Epoch: 300/1000, loss: 15.216530581375322, correct: 44
+Epoch: 310/1000, loss: 14.811145312303074, correct: 45
+Epoch: 320/1000, loss: 14.42032987510779, correct: 45
+Epoch: 330/1000, loss: 14.040964744693149, correct: 45
+Epoch: 340/1000, loss: 13.669371609954425, correct: 46
+Epoch: 350/1000, loss: 13.30738268877866, correct: 46
+Epoch: 360/1000, loss: 12.948491845611038, correct: 46
+Epoch: 370/1000, loss: 12.583580935663484, correct: 46
+Epoch: 380/1000, loss: 12.238221036659299, correct: 46
+Epoch: 390/1000, loss: 11.903833655736268, correct: 46
+Epoch: 400/1000, loss: 11.578102171598257, correct: 46
+Epoch: 410/1000, loss: 11.265863593345411, correct: 46
+Epoch: 420/1000, loss: 10.964319758443173, correct: 46
+Epoch: 430/1000, loss: 10.670603426838746, correct: 46
+Epoch: 440/1000, loss: 10.389392763446445, correct: 46
+Epoch: 450/1000, loss: 10.110942413066354, correct: 46
+Epoch: 460/1000, loss: 9.841735144465067, correct: 46
+Epoch: 470/1000, loss: 9.578180092381714, correct: 46
+Epoch: 480/1000, loss: 9.323523315298544, correct: 46
+Epoch: 490/1000, loss: 9.075754300627532, correct: 48
+Epoch: 500/1000, loss: 8.830210419191983, correct: 48
+Epoch: 510/1000, loss: 8.595585300626468, correct: 48
+Epoch: 520/1000, loss: 8.365813267820695, correct: 48
+Epoch: 530/1000, loss: 8.139787385412404, correct: 48
+Epoch: 540/1000, loss: 7.921838742638196, correct: 48
+Epoch: 550/1000, loss: 7.707755741349636, correct: 48
+Epoch: 560/1000, loss: 7.498946188688114, correct: 48
+Epoch: 570/1000, loss: 7.299477140268256, correct: 48
+Epoch: 580/1000, loss: 7.1002033661517014, correct: 49
+Epoch: 590/1000, loss: 6.9116359451132805, correct: 49
+Epoch: 600/1000, loss: 6.724578615918381, correct: 49
+Epoch: 610/1000, loss: 6.541058577460731, correct: 49
+Epoch: 620/1000, loss: 6.365325078170678, correct: 49
+Epoch: 630/1000, loss: 6.195815400090943, correct: 49
+Epoch: 640/1000, loss: 6.027554379687644, correct: 49
+Epoch: 650/1000, loss: 5.8637112229039845, correct: 50
+Epoch: 660/1000, loss: 5.704990511148598, correct: 50
+Epoch: 670/1000, loss: 5.5506582222952465, correct: 50
+Epoch: 680/1000, loss: 5.411516683183759, correct: 50
+Epoch: 690/1000, loss: 5.2620632470897135, correct: 50
+Epoch: 700/1000, loss: 5.120310100351985, correct: 50
+Epoch: 710/1000, loss: 4.983619671163027, correct: 50
+Epoch: 720/1000, loss: 4.806646859784154, correct: 50
+Epoch: 730/1000, loss: 4.655392783839691, correct: 50
+Epoch: 740/1000, loss: 4.517628093098161, correct: 50
+Epoch: 750/1000, loss: 4.399386975715046, correct: 50
+Epoch: 760/1000, loss: 4.269626223212867, correct: 50
+Epoch: 770/1000, loss: 4.153182663986736, correct: 50
+Epoch: 780/1000, loss: 4.03615701520391, correct: 50
+Epoch: 790/1000, loss: 3.9235864445899766, correct: 50
+Epoch: 800/1000, loss: 3.819007170932297, correct: 50
+Epoch: 810/1000, loss: 3.7241409331850734, correct: 50
+Epoch: 820/1000, loss: 3.6157663939800955, correct: 50
+Epoch: 830/1000, loss: 3.52196474181172, correct: 50
+Epoch: 840/1000, loss: 3.4297497591030552, correct: 50
+Epoch: 850/1000, loss: 3.3408812279075972, correct: 50
+Epoch: 860/1000, loss: 3.254926900114172, correct: 50
+Epoch: 870/1000, loss: 3.1761624285053114, correct: 50
+Epoch: 880/1000, loss: 3.101914032634445, correct: 50
+Epoch: 890/1000, loss: 3.0212772401541352, correct: 50
+Epoch: 900/1000, loss: 2.945827927965049, correct: 50
+Epoch: 910/1000, loss: 2.8755607043262907, correct: 50
+Epoch: 920/1000, loss: 2.8060613129820178, correct: 50
+Epoch: 930/1000, loss: 2.7424632406293945, correct: 50
+Epoch: 940/1000, loss: 2.6831660224936376, correct: 50
+Epoch: 950/1000, loss: 2.6198487911289727, correct: 50
+Epoch: 960/1000, loss: 2.5577405940439255, correct: 50
+Epoch: 970/1000, loss: 2.5003444115883817, correct: 50
+Epoch: 980/1000, loss: 2.451712551195084, correct: 50
+Epoch: 990/1000, loss: 2.3965557589204187, correct: 50
+Epoch: 1000/1000, loss: 2.341251228909602, correct: 50
+
+
+
+
+
+
 

@@ -1,3 +1,12 @@
+# minitorch/__init__.py
+
+"""Minitorch Package
+
+A minimal implementation of a deep learning framework, providing essential tensor operations,
+automatic differentiation, and optimization algorithms. This package serves as an educational
+tool to understand the foundational concepts behind modern deep learning libraries.
+"""
+
 from .testing import MathTest, MathTestVariable  # type: ignore # noqa: F401,F403
 from .tensor_data import *  # noqa: F401,F403
 from .tensor import *  # noqa: F401,F403

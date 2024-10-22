@@ -60,7 +60,7 @@ markers = [
     "task4_3",
     "task4_4",
 ]
-[tool.ruff]
+[tool.ruff.lint]
 
 exclude = [
     ".git",
@@ -94,6 +94,7 @@ ignore = [
     "D100",
     "D101",
     "D107",
+    "D203",
     "D213",
     "ANN204",
     "ANN102",
